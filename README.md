@@ -77,7 +77,7 @@ This course contains lots of labs for HTML, each lab is a small HTML project wit
 |      64 | 📖 HTML Fieldset Caption                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/70786'>Start Lab</a>  |
 |      65 | 📖 HTML Ruby Annotation Explanation             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/70823'>Start Lab</a>  |
 |      66 | 📖 HTML Sample Output                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/70827'>Start Lab</a>  |
-|      67 | 📖 Mastering HTML Variable Declarations         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/70879'>Start Lab</a>  |
+|      67 | 📖 HTML Variable Declarations                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/70879'>Start Lab</a>  |
 |      68 | 📖 Styling Elements with HTML Span              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/70839'>Start Lab</a>  |
 |      69 | 📖 HTML Article Section                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/70702'>Start Lab</a>  |
 |      70 | 📖 HTML Main Content                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/70792'>Start Lab</a>  |
